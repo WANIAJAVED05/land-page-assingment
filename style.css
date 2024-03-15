@@ -1,0 +1,89 @@
+body{
+height: auto;
+width: auto;
+font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+font-size: 30px;
+}
+
+.navbar{
+  background-color: rgb(245, 242, 242);
+  padding-right: 40px;
+  padding-left: 15px;
+  padding: 0px;
+  
+}
+.navdiv{
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  vertical-align: baseline;
+}
+.logo{
+  font-size: 30px;
+ 
+  
+}
+li{
+  list-style:none ;
+  display: inline-block;
+
+}
+li a{
+  margin-left: 25px ;
+  font-size: 20px;
+  padding-left: 10px ;
+}
+button {
+ 
+     background-color: rgb(190, 49, 96);
+     border-radius: 10px ;
+     padding: 7px ;
+
+}
+button a {
+  box-sizing: 10px;
+  font-weight: bold;
+  font-size: 20px;
+border-radius: 20px;  
+}
+img.align-right {
+  float: right;
+  margin-right: 10px;
+  padding-right: 10px; 
+}
+#table{
+
+  background-image: url("/https://mediaim.expedia.com/destination/1/ff336fd63f692dce102ad19a6ecc52c2.jpg");
+  background-repeat: no-repeat;
+  background-position: center top;
+  background-size: cover;
+    display: inline-block;
+    margin: 20px;
+}
+p
+#box{
+font-size: 30px;
+font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+font-style: bold;
+}
+#box
+{
+border: 0px 0px cornsilk;
+z-index: -1;
+
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
